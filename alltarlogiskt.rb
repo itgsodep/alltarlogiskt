@@ -1,1 +1,3 @@
 puts "testanu"
+
+puts "fungerar"
